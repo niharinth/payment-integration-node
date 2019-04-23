@@ -33,10 +33,10 @@ app.get("/buy", (req, res) => {
     transactions: [
       {
         amount: {
-          total: 39.0,
+          total: 10.0,
           currency: "USD"
         },
-        description: " a book on mean stack "
+        description: " a fantasy novel "
       }
     ]
   };
